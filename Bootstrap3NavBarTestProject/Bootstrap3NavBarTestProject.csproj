@@ -77,6 +77,8 @@
   <ItemGroup>
     <Content Include="css\navbar.css" />
     <Content Include="Global.asax" />
+    <Content Include="img\escudo.png" />
+    <Content Include="img\fondoazul.gif" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
